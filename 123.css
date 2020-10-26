@@ -1,0 +1,11 @@
+books{color:black;background-color:blue;width:100%}
+
+heading{color=red
+font-size:30px;
+background-color:cobaltblue;}
+
+heading,title,author,publisher,price{display:block}
+
+title{font-size:25px;
+font-weight:bold;}
+<?xml-stylesheet href="OOO.css" type="text/css"?>
